@@ -10,6 +10,7 @@
  class Listing extends Component {
 
    render () {
+     //Config proper height and width
      var Styles = {
        config: {
          height: this.props.height,
