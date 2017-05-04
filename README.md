@@ -9,7 +9,7 @@
 ### Where do I find the functions requested? ###
 Main files:
 
-* **src/routes/Home/modules/GridSorter.js** You will find arrangeListings(listings), with all the necessary methods to make the app sort the grid.
+* **src/routes/Home/modules/GridSorter.js** You will find arrangeListings(listings), with all the necessary methods to make the app sort the grid (e.g.: arrangeListings, etc...)
 
 * **src/routes/Home/** You will find the Home Component/Route, in particular, the renderListings(listings) method. Also, some data for testing the listing feed.
 
